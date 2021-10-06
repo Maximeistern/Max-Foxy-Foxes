@@ -1,0 +1,10 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+body > header {
+  background-color: #808080;
+  width: 100%;
+  padding: 5px;
+  top: 0;
+  position: fixed;
+}
